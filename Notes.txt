@@ -1,0 +1,9 @@
+Instruction:
+
+1.import mysql data in phpmyadmin with same database name(fm_portal)
+2.extract fm_portal.zip file into your localhost 'htdocs' folder(if you are using xampp) or 'www' folder(if you are using wamp).
+3.run the url 'http://localhost/fm_portal/'
+
+login details:
+username : admin@domain.com
+password : admin123
